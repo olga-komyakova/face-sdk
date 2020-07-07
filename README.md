@@ -88,3 +88,5 @@ When extracting the archive, specify the path to the Face SDK root – the folde
 
 <div align="center">© All Rights Reserved. <a href="https://3divi.com/">3DiVi Inc.</a></div>
 <div align="center"><a href="mailto: face@3divi.com">face@3divi.com</a></div>
+
+some changes
