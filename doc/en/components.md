@@ -53,3 +53,5 @@ See the detailed info in [Liveness](development/face_estimation.md#liveness).
 **Gender-Age Detector** and **Emotions Detector** are optional Face SDK components, which allow to estimate gender and age of a person and get a rough estimate of the prevailing emotional state of the face at a given time. As input data, *Gender-Age Detector* and *Emotions Detector* use the normalized face images obtained from the *FaceDetector* module. The age is detected within the range of +/- 5 years. The emotional states are Happy, Surprise, Neutral, Angry.  
 **Licensing**: by Data Channel (photo or video).  
 See the detailed info in [Age & Gender](development/face_estimation.md#age--gender) and [Emotions](development/face_estimation.md#emotions).
+
+another change
